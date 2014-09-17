@@ -12,6 +12,8 @@ namespace ycore.ncc
         public void ProceedXMLJob(string XMLFileName)
         {
             MessageBox.Show(XMLFileName);
+        {
+         }
         }
     }
 }
